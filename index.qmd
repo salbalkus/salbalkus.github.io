@@ -21,13 +21,11 @@ about:
 
 ::: {#hero-heading}
 
-Hi there! My name is Salvador Balkus. I am a PhD student in Biostatistics at the Harvard T.H. Chan School of Public Health. 
+Hi there! My name is Salvador Balkus. I am a third-year PhD student in Biostatistics at the Harvard T.H. Chan School of Public Health. 
 
 My research interests include causal inference, spatial statistics, and environmental health. I am currently advised by Professor [Nima Hejazi](https://nimahejazi.org/).
 
-In my free time, I enjoy illustrating scientific infographics and writing the occasional blog post for [Harvard Science in the News](https://sitn.hms.harvard.edu/). You can check out some of my work [here](https://sitn.hms.harvard.edu/?s=Salvador+Balkus).
-
-Previously, I earned a BS in Data Science from the University of Massachusetts Dartmouth. As an undergraduate, I worked under Professor Hua Fang in the [Computational Statistics and Data Science Lab](https://www.umassmed.edu/fanglab/) on a variety of topics in smart health and distributed learning. 
+Previously, I earned my Bachelor's in Data Science from the University of Massachusetts Dartmouth. As an undergraduate, I worked under Professor Hua Fang in the [Computational Statistics and Data Science Lab](https://www.umassmed.edu/fanglab/) on a variety of topics in smart health and distributed learning. 
 
 Before that, I spent time as a research assistant in the UMass Dartmouth Public Policy Center, where I studied the Blue Economy and social determinants of health in Southeastern New England.
 
