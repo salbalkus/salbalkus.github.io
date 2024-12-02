@@ -22,6 +22,9 @@ ASA Boston Chapter Student Research Symposium on Statistics and Data Science, Ap
 
 ## Other
 
+[**Statistics in Julia: Is It Right For You?**](/files/talks/statistics-in-julia.html)  
+Harvard Biostatistics Student Seminar, December 2024  
+
 [**Multi-Hypothesis Tracking of Space Objects and Targets**](/files/talks/Aerospace_JMM_Poster.pdf)  
 AMS Joint Mathematics Meetings (JMM) Poster Session, April 2022  
 Pai N, **Balkus SV** and Zeng T.
