@@ -130,7 +130,7 @@
     "href": "papers.html",
     "title": "Papers",
     "section": "",
-    "text": "None yet; check back soon!",
+    "text": "The causal effects of modified treatment policies under network interference\narXiv:2412.02105\nBalkus SV, Delaney SW, Hejazi NS.\nCausalTables.jl: Simulating and storing data for statistical causal inference in Julia\nUnder review at Journal of Open Source Software\nBalkus SV, Hejazi NS.",
     "crumbs": [
       "Papers"
     ]
@@ -139,15 +139,18 @@
     "objectID": "papers.html#research-articles",
     "href": "papers.html#research-articles",
     "title": "Papers",
-    "section": "Research Articles",
-    "text": "Research Articles\nImproving Short Text Classification With Augmented Data Using GPT-3\nNatural Language Engineering (2023).\nBalkus SV, Yan D.\nFederated Fuzzy Clustering for Longitudinal Health Data\nIEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).\nBalkus SV, Fang H, Wang H.\nA Survey of Collaborative Machine Learning Using 5G Vehicular Communications\nIEEE Communications Surveys & Tutorials (2022).\nBalkus SV, Wang H, Cornet BD, Mahabal C, Ngo H, Fang H.\nA review of harmonization methods for studying dietary patterns\nSmart Health (2022).\nGurugubelli VS, Fang H, Shikany JM, Balkus SV, Rumbut J, Ngo H, Wang H, Allison JJ, Steffen NL.\nA Multi-level Biosensor-based Epidemic Simulation Model for COVID-19\nIEEE Internet of Things Journal (2021).\nBalkus SV, Fang H, Rumbut R, Moormann A, Boyer E."
+    "section": "Research articles",
+    "text": "Research articles\nFederated fuzzy clustering for longitudinal health data\nIEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).\nBalkus SV, Fang H, Wang H.\nA survey of collaborative machine learning using 5G vehicular communications\nIEEE Communications Surveys & Tutorials (2022).\nBalkus SV, Wang H, Cornet BD, Mahabal C, Ngo H, Fang H.\nA review of harmonization methods for studying dietary patterns\nSmart Health (2022).\nGurugubelli VS, Fang H, Shikany JM, Balkus SV, Rumbut J, Ngo H, Wang H, Allison JJ, Steffen NL.\nA multi-level biosensor-based epidemic simulation model for COVID-19\nIEEE Internet of Things Journal (2021).\nBalkus SV, Fang H, Rumbut R, Moormann A, Boyer E.\nImproving short text classification with augmented data using GPT-3\nNatural Language Engineering (2023).\nBalkus SV, Yan D.",
+    "crumbs": [
+      "Papers"
+    ]
   },
   {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Nonparametric Network Causal Inference for Continuous Exposures in Mobile Source Air Pollution\nAmerican Causal Inference Conference, May 2024\nAssumption-Lean Causal Inference for Mobile Source Air Pollution ASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024",
+    "text": "Statistics in Julia: Is It Right For You?\nHarvard Biostatistics Student Seminar, December 2024",
     "crumbs": [
       "Talks"
     ]
@@ -228,7 +231,37 @@
     "href": "talks.html#other",
     "title": "Talks",
     "section": "Other",
-    "text": "Other\nStatistics in Julia: Is It Right For You?\nHarvard Biostatistics Student Seminar, December 2024\nMulti-Hypothesis Tracking of Space Objects and Targets\nAMS Joint Mathematics Meetings (JMM) Poster Session, April 2022\nPai N, Balkus SV and Zeng T.\nMulti-Level Biosensor-based Epidemic Forecasting in Small Areas\nASA Joint Statistical Meetings, August 2021",
+    "text": "Other\nMulti-Hypothesis Tracking of Space Objects and Targets\nAMS Joint Mathematics Meetings (JMM) Poster Session, April 2022\nPai N, Balkus SV and Zeng T.\nMulti-Level Biosensor-based Epidemic Forecasting in Small Areas\nASA Joint Statistical Meetings, August 2021",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "papers.html#in-preparation-and-preprints",
+    "href": "papers.html#in-preparation-and-preprints",
+    "title": "Papers",
+    "section": "",
+    "text": "The causal effects of modified treatment policies under network interference\narXiv:2412.02105\nBalkus SV, Delaney SW, Hejazi NS.\nCausalTables.jl: Simulating and storing data for statistical causal inference in Julia\nUnder review at Journal of Open Source Software\nBalkus SV, Hejazi NS.",
+    "crumbs": [
+      "Papers"
+    ]
+  },
+  {
+    "objectID": "talks.html#statistical-computing",
+    "href": "talks.html#statistical-computing",
+    "title": "Talks",
+    "section": "",
+    "text": "Statistics in Julia: Is It Right For You?\nHarvard Biostatistics Student Seminar, December 2024",
+    "crumbs": [
+      "Talks"
+    ]
+  },
+  {
+    "objectID": "talks.html#causal-inference",
+    "href": "talks.html#causal-inference",
+    "title": "Talks",
+    "section": "Causal Inference",
+    "text": "Causal Inference\nNonparametric Network Causal Inference for Continuous Exposures in Mobile Source Air Pollution\nAmerican Causal Inference Conference, May 2024\nAssumption-Lean Causal Inference for Mobile Source Air Pollution ASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024",
     "crumbs": [
       "Talks"
     ]

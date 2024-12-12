@@ -4,7 +4,12 @@ description: |
   Here, I highlight some of my notable academic talks and poster presentations not published in any conference proceedings.
 ---
 
-## Applied Causal Inference
+## Statistical Computing
+
+[**Statistics in Julia: Is It Right For You?**](/files/talks/statistics-in-julia.html)  
+Harvard Biostatistics Student Seminar, December 2024  
+
+## Causal Inference
 
 [**Nonparametric Network Causal Inference for Continuous Exposures in Mobile Source Air Pollution**](/files/talks/ACIC-Poster-2024.pdf)  
 American Causal Inference Conference, May 2024
@@ -21,9 +26,6 @@ University of Massachusetts Dartmouth, April 2022
 ASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2022
 
 ## Other
-
-[**Statistics in Julia: Is It Right For You?**](/files/talks/statistics-in-julia.html)  
-Harvard Biostatistics Student Seminar, December 2024  
 
 [**Multi-Hypothesis Tracking of Space Objects and Targets**](/files/talks/Aerospace_JMM_Poster.pdf)  
 AMS Joint Mathematics Meetings (JMM) Poster Session, April 2022  

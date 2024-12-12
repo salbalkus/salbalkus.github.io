@@ -5,16 +5,23 @@ description: |
   For a complete listing, please refer to my [Google       Scholar](https://scholar.google.com/citations?user=wzuq_fcAAAAJ&hl=en&oi=ao).
 ---
 
-## Preprints
-None yet; check back soon!
+## In preparation and preprints
 
-## Research Articles: Smart Health
+[**The causal effects of modified treatment policies under network interference**](https://arxiv.org/abs/2412.02105)  
+arXiv:2412.02105
+**Balkus SV**, Delaney SW, Hejazi NS.  
 
-[**Federated Fuzzy Clustering for Longitudinal Health Data**](https://ieeexplore.ieee.org/abstract/document/9983621)  
+[**CausalTables.jl: Simulating and storing data for statistical causal inference in Julia**](https://joss.theoj.org/papers/68c43e832d063050a4e67528191e8148)  
+*Under review at* Journal of Open Source Software  
+**Balkus SV**, Hejazi NS.  
+
+## Research articles
+
+[**Federated fuzzy clustering for longitudinal health data**](https://ieeexplore.ieee.org/abstract/document/9983621)  
 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).  
 **Balkus SV**, Fang H, Wang H.  
 
-[**A Survey of Collaborative Machine Learning Using 5G Vehicular Communications**](https://ieeexplore-ieee-org/abstract/document/9706268)  
+[**A survey of collaborative machine learning using 5G vehicular communications**](https://ieeexplore-ieee-org/abstract/document/9706268)  
 IEEE Communications Surveys & Tutorials (2022).  
 **Balkus SV**, Wang H, Cornet BD, Mahabal C, Ngo H, Fang H.  
 
@@ -22,12 +29,11 @@ IEEE Communications Surveys & Tutorials (2022).
 Smart Health (2022).  
 Gurugubelli VS, Fang H, Shikany JM, **Balkus SV**, Rumbut J, Ngo H, Wang H, Allison JJ, Steffen NL.  
 
-[**A Multi-level Biosensor-based Epidemic Simulation Model for COVID-19**](https://ieeexplore-ieee-org/abstract/document/9612608)  
+[**A multi-level biosensor-based epidemic simulation model for COVID-19**](https://ieeexplore-ieee-org/abstract/document/9612608)  
 IEEE Internet of Things Journal (2021).  
 **Balkus SV**, Fang H, Rumbut R, Moormann A, Boyer E. 
 
-## Research Articles: Large Language Models
-[**Improving Short Text Classification With Augmented Data Using GPT-3**](https://www.cambridge.org/core/journals/natural-language-engineering/article/improving-short-text-classification-with-augmented-data-using-gpt3/4F23066E3F0156382190BD76DA9A7BA5)  
+[**Improving short text classification with augmented data using GPT-3**](https://www.cambridge.org/core/journals/natural-language-engineering/article/improving-short-text-classification-with-augmented-data-using-gpt3/4F23066E3F0156382190BD76DA9A7BA5)  
 Natural Language Engineering (2023).  
 **Balkus SV**, Yan D.  
 
