@@ -17,6 +17,10 @@ arXiv:2412.02105
 
 ## Research articles
 
+[**Improving short text classification with augmented data using GPT-3**](https://www.cambridge.org/core/journals/natural-language-engineering/article/improving-short-text-classification-with-augmented-data-using-gpt3/4F23066E3F0156382190BD76DA9A7BA5)
+Natural Language Engineering (2023).
+**Balkus SV**, Yan D.
+
 [**Federated fuzzy clustering for longitudinal health data**](https://ieeexplore.ieee.org/abstract/document/9983621)  
 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).  
 **Balkus SV**, Fang H, Wang H.  
@@ -32,8 +36,4 @@ Gurugubelli VS, Fang H, Shikany JM, **Balkus SV**, Rumbut J, Ngo H, Wang H, Alli
 [**A multi-level biosensor-based epidemic simulation model for COVID-19**](https://ieeexplore-ieee-org/abstract/document/9612608)  
 IEEE Internet of Things Journal (2021).  
 **Balkus SV**, Fang H, Rumbut R, Moormann A, Boyer E. 
-
-[**Improving short text classification with augmented data using GPT-3**](https://www.cambridge.org/core/journals/natural-language-engineering/article/improving-short-text-classification-with-augmented-data-using-gpt3/4F23066E3F0156382190BD76DA9A7BA5)  
-Natural Language Engineering (2023).  
-**Balkus SV**, Yan D.  
 
