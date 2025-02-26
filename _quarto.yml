@@ -28,7 +28,7 @@ website:
         href: talks.qmd
 
       - text: "CV"
-        href: files/cv.pdf
+        href: files/cv_salvador_balkus.pdf
 
 format:
   html:

@@ -8,18 +8,18 @@ description: |
 ## In preparation and preprints
 
 [**The causal effects of modified treatment policies under network interference**](https://arxiv.org/abs/2412.02105)  
-arXiv:2412.02105
+arXiv:2412.02105  
 **Balkus SV**, Delaney SW, Hejazi NS.  
-
-[**CausalTables.jl: Simulating and storing data for statistical causal inference in Julia**](https://joss.theoj.org/papers/68c43e832d063050a4e67528191e8148)  
-*Under review at* Journal of Open Source Software  
-**Balkus SV**, Hejazi NS.  
 
 ## Research articles
 
-[**Improving short text classification with augmented data using GPT-3**](https://www.cambridge.org/core/journals/natural-language-engineering/article/improving-short-text-classification-with-augmented-data-using-gpt3/4F23066E3F0156382190BD76DA9A7BA5)
-Natural Language Engineering (2023).
-**Balkus SV**, Yan D.
+[**CausalTables.jl: Simulating and storing data for statistical causal inference in Julia**](https://joss.theoj.org/papers/68c43e832d063050a4e67528191e8148)  
+Journal of Open Source Software (2025).  
+**Balkus SV**, Hejazi NS.  
+
+[**Improving short text classification with augmented data using GPT-3**](https://www.cambridge.org/core/journals/natural-language-engineering/article/improving-short-text-classification-with-augmented-data-using-gpt3/4F23066E3F0156382190BD76DA9A7BA5)  
+Natural Language Engineering (2023).  
+**Balkus SV**, Yan D.  
 
 [**Federated fuzzy clustering for longitudinal health data**](https://ieeexplore.ieee.org/abstract/document/9983621)  
 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).  
