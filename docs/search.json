@@ -61,7 +61,7 @@
     "href": "papers.html",
     "title": "Papers",
     "section": "",
-    "text": "The causal effects of modified treatment policies under network interference\narXiv:2412.02105 Balkus SV, Delaney SW, Hejazi NS.\nCausalTables.jl: Simulating and storing data for statistical causal inference in Julia\nUnder review at Journal of Open Source Software\nBalkus SV, Hejazi NS.",
+    "text": "The causal effects of modified treatment policies under network interference\narXiv:2412.02105\nBalkus SV, Delaney SW, Hejazi NS.",
     "crumbs": [
       "Papers"
     ]
@@ -71,7 +71,7 @@
     "href": "papers.html#in-preparation-and-preprints",
     "title": "Papers",
     "section": "",
-    "text": "The causal effects of modified treatment policies under network interference\narXiv:2412.02105 Balkus SV, Delaney SW, Hejazi NS.\nCausalTables.jl: Simulating and storing data for statistical causal inference in Julia\nUnder review at Journal of Open Source Software\nBalkus SV, Hejazi NS.",
+    "text": "The causal effects of modified treatment policies under network interference\narXiv:2412.02105\nBalkus SV, Delaney SW, Hejazi NS.",
     "crumbs": [
       "Papers"
     ]
@@ -81,7 +81,7 @@
     "href": "papers.html#research-articles",
     "title": "Papers",
     "section": "Research articles",
-    "text": "Research articles\nImproving short text classification with augmented data using GPT-3 Natural Language Engineering (2023). Balkus SV, Yan D.\nFederated fuzzy clustering for longitudinal health data\nIEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).\nBalkus SV, Fang H, Wang H.\nA survey of collaborative machine learning using 5G vehicular communications\nIEEE Communications Surveys & Tutorials (2022).\nBalkus SV, Wang H, Cornet BD, Mahabal C, Ngo H, Fang H.\nA review of harmonization methods for studying dietary patterns\nSmart Health (2022).\nGurugubelli VS, Fang H, Shikany JM, Balkus SV, Rumbut J, Ngo H, Wang H, Allison JJ, Steffen NL.\nA multi-level biosensor-based epidemic simulation model for COVID-19\nIEEE Internet of Things Journal (2021).\nBalkus SV, Fang H, Rumbut R, Moormann A, Boyer E.",
+    "text": "Research articles\nCausalTables.jl: Simulating and storing data for statistical causal inference in Julia\nJournal of Open Source Software (2025).\nBalkus SV, Hejazi NS.\nImproving short text classification with augmented data using GPT-3\nNatural Language Engineering (2023).\nBalkus SV, Yan D.\nFederated fuzzy clustering for longitudinal health data\nIEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).\nBalkus SV, Fang H, Wang H.\nA survey of collaborative machine learning using 5G vehicular communications\nIEEE Communications Surveys & Tutorials (2022).\nBalkus SV, Wang H, Cornet BD, Mahabal C, Ngo H, Fang H.\nA review of harmonization methods for studying dietary patterns\nSmart Health (2022).\nGurugubelli VS, Fang H, Shikany JM, Balkus SV, Rumbut J, Ngo H, Wang H, Allison JJ, Steffen NL.\nA multi-level biosensor-based epidemic simulation model for COVID-19\nIEEE Internet of Things Journal (2021).\nBalkus SV, Fang H, Rumbut R, Moormann A, Boyer E.",
     "crumbs": [
       "Papers"
     ]
