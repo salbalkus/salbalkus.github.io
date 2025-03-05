@@ -14,7 +14,7 @@ Harvard Biostatistics Student Seminar, December 2024
 [**Nonparametric Network Causal Inference for Continuous Exposures in Mobile Source Air Pollution**](/files/talks/ACIC-Poster-2024.pdf)  
 American Causal Inference Conference, May 2024
 
-[**Assumption-Lean Causal Inference for Mobile Source Air Pollution**](/files/talks/Balkus - NE-SRS-SDS-v2.pdf)
+[**Assumption-Lean Causal Inference for Mobile Source Air Pollution**](/files/talks/Balkus - NE-SRS-SDS-v2.pdf)  
 ASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024
 
 ## Large Language Models
