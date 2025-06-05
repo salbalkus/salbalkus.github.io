@@ -6,6 +6,9 @@ description: |
 
 ## Statistical Computing
 
+[**Speeding up the Highly Adaptive Lasso**]<!--(/files/talks/Speeding-Up-HAL.html)-->
+Harvard Biostatistics Student Seminar, March 2024  
+
 [**Statistics in Julia: Is It Right For You?**](/files/talks/statistics-in-julia.html)  
 Harvard Biostatistics Student Seminar, December 2024  
 
