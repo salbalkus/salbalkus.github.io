@@ -3,7 +3,7 @@ title: "Salvador Balkus"
 image: me2.jpeg
 about:
   id: hero-heading
-  template: trestles #jolla, trestles, solana, marquee, broadside
+  template: trestles #jolla, solana, marquee, broadside
   image-shape: rectangle
   links:
     - icon: linkedin
