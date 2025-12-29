@@ -21,7 +21,7 @@ about:
 
 ::: {#hero-heading}
 
-Hi there! My name is Salvador Balkus. I am a third-year PhD candidate in Biostatistics at the Harvard T.H. Chan School of Public Health. 
+Hi there! My name is Salvador Balkus. I am a fourth-year PhD candidate in Biostatistics at the Harvard T.H. Chan School of Public Health. 
 
 My research interests include causal inference, spatial statistics, and environmental health. I am currently advised by Professor [Nima Hejazi](https://nimahejazi.org/).
 
