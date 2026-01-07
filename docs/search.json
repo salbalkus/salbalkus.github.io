@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Salvador Balkus",
-    "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n      Google Scholar\n  \n  \n      ORCID\n  \n\n  \n  \nHi there! My name is Salvador Balkus. I am a third-year PhD candidate in Biostatistics at the Harvard T.H. Chan School of Public Health.\nMy research interests include causal inference, spatial statistics, and environmental health. I am currently advised by Professor Nima Hejazi.\nPreviously, I earned my Bachelor’s in Data Science from the University of Massachusetts Dartmouth. As an undergraduate, I worked under Professor Hua Fang in the Computational Statistics and Data Science Lab on a variety of topics in smart health and distributed learning.\nBefore that, I spent time as a research assistant in the UMass Dartmouth Public Policy Center, where I studied the Blue Economy and social determinants of health in Southeastern New England."
-  },
-  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks",
@@ -55,6 +48,13 @@
     "crumbs": [
       "Talks"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Salvador Balkus",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n      Google Scholar\n  \n  \n      ORCID\n  \n\n  \n  \nHi there! My name is Salvador Balkus. I am a fourth-year PhD candidate in Biostatistics at the Harvard T.H. Chan School of Public Health.\nMy research interests include causal inference, spatial statistics, and environmental health. I am currently advised by Professor Nima Hejazi.\nPreviously, I earned my Bachelor’s in Data Science from the University of Massachusetts Dartmouth. As an undergraduate, I worked under Professor Hua Fang in the Computational Statistics and Data Science Lab on a variety of topics in smart health and distributed learning.\nBefore that, I spent time as a research assistant in the UMass Dartmouth Public Policy Center, where I studied the Blue Economy and social determinants of health in Southeastern New England."
   },
   {
     "objectID": "papers.html",
