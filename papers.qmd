@@ -7,6 +7,10 @@ description: |
 
 ## In preparation and preprints
 
+[**On the use of cross-fitting in causal machine learning with correlated units**](https://arxiv.org/abs/2601.10899)  
+arXiv:2601.10899  
+**Balkus SV**, Laith H, Hejazi NS.  
+
 [**The causal effects of modified treatment policies under network interference**](https://arxiv.org/abs/2412.02105)  
 arXiv:2412.02105  
 **Balkus SV**, Delaney SW, Hejazi NS.  
