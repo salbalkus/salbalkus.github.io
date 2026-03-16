@@ -11,11 +11,11 @@ description: |
 arXiv:2601.10899  
 **Balkus SV**, Laith H, Hejazi NS.  
 
-[**The causal effects of modified treatment policies under network interference**](https://arxiv.org/abs/2412.02105)  
-arXiv:2412.02105  
-**Balkus SV**, Delaney SW, Hejazi NS.  
-
 ## Research articles
+
+[**The causal effects of modified treatment policies under network interference**](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkag052/8512123)  
+Journal of the Royal Statistical Society Series B: Statistical Methodology  
+**Balkus SV**, Delaney SW, Hejazi NS.  
 
 [**CausalTables.jl: Simulating and storing data for statistical causal inference in Julia**](https://joss.theoj.org/papers/68c43e832d063050a4e67528191e8148)  
 Journal of Open Source Software (2025).  
