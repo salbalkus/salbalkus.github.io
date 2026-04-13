@@ -8,7 +8,8 @@ description: |
 
 [**A Riesz Representer Perspective on
 Targeted Learning**](/files/talks/eurocim-balkus-2026.html)  
-European Causal Inference Meeting, April 2026
+European Causal Inference Meeting, April 2026  
+([PDF](/files/talks/eurocim-balkus-2026.pdf))
 
 
 [**The Causal Effects of Modified Treatment Policies
