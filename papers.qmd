@@ -7,6 +7,10 @@ description: |
 
 ## In preparation and preprints
 
+[**Linear models for causal inference under network interference**](https://arxiv.org/abs/2603.29168)  
+arXiv:2603.29168  
+Tong E, **Balkus SV**.  
+
 [**On the use of cross-fitting in causal machine learning with correlated units**](https://arxiv.org/abs/2601.10899)  
 arXiv:2601.10899  
 **Balkus SV**, Laith H, Hejazi NS.  
