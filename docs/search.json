@@ -4,7 +4,7 @@
     "href": "talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Speeding up the Highly Adaptive Lasso\nHarvard Biostatistics Student Seminar, March 2025\nStatistics in Julia: Is It Right For You?\nHarvard Biostatistics Student Seminar, December 2024",
+    "text": "A Riesz Representer Perspective on Targeted Learning\nEuropean Causal Inference Meeting, April 2026\nThe Causal Effects of Modified Treatment Policies Under Network Interference\nSpace-Time Causality Reading Group, September 2025\nNonparametric Causal Inference for Continuous Exposures in Mobile Source Air Pollution\nAmerican Causal Inference Conference, May 2024\nAssumption-Lean Causal Inference for Mobile Source Air Pollution\nASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024",
     "crumbs": [
       "Talks"
     ]
@@ -13,8 +13,8 @@
     "objectID": "talks.html#statistical-computing",
     "href": "talks.html#statistical-computing",
     "title": "Talks",
-    "section": "",
-    "text": "Speeding up the Highly Adaptive Lasso\nHarvard Biostatistics Student Seminar, March 2025\nStatistics in Julia: Is It Right For You?\nHarvard Biostatistics Student Seminar, December 2024",
+    "section": "Statistical Computing",
+    "text": "Statistical Computing\nSpeeding up the Highly Adaptive Lasso\nHarvard Biostatistics Student Seminar, March 2025\nStatistics in Julia: Is It Right For You?\nHarvard Biostatistics Student Seminar, December 2024",
     "crumbs": [
       "Talks"
     ]
@@ -23,8 +23,8 @@
     "objectID": "talks.html#causal-inference",
     "href": "talks.html#causal-inference",
     "title": "Talks",
-    "section": "Causal Inference",
-    "text": "Causal Inference\nThe Causal Effects of Modified Treatment Policies Under Network Interference\nSpace-Time Causality Reading Group, September 2025\nNonparametric betwork Causal Inference for Continuous Exposures in Mobile Source Air Pollution\nAmerican Causal Inference Conference, May 2024\nAssumption-Lean Causal Inference for Mobile Source Air Pollution\nASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024",
+    "section": "",
+    "text": "A Riesz Representer Perspective on Targeted Learning\nEuropean Causal Inference Meeting, April 2026\nThe Causal Effects of Modified Treatment Policies Under Network Interference\nSpace-Time Causality Reading Group, September 2025\nNonparametric Causal Inference for Continuous Exposures in Mobile Source Air Pollution\nAmerican Causal Inference Conference, May 2024\nAssumption-Lean Causal Inference for Mobile Source Air Pollution\nASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024",
     "crumbs": [
       "Talks"
     ]
@@ -61,7 +61,7 @@
     "href": "papers.html",
     "title": "Papers",
     "section": "",
-    "text": "On the use of cross-fitting in causal machine learning with correlated units\narXiv:2601.10899\nBalkus SV, Laith H, Hejazi NS.",
+    "text": "Linear models for causal inference under network interference\narXiv:2603.29168\nTong E, Balkus SV.\nOn the use of cross-fitting in causal machine learning with correlated units\narXiv:2601.10899\nBalkus SV, Laith H, Hejazi NS.",
     "crumbs": [
       "Papers"
     ]
@@ -71,7 +71,7 @@
     "href": "papers.html#in-preparation-and-preprints",
     "title": "Papers",
     "section": "",
-    "text": "On the use of cross-fitting in causal machine learning with correlated units\narXiv:2601.10899\nBalkus SV, Laith H, Hejazi NS.",
+    "text": "Linear models for causal inference under network interference\narXiv:2603.29168\nTong E, Balkus SV.\nOn the use of cross-fitting in causal machine learning with correlated units\narXiv:2601.10899\nBalkus SV, Laith H, Hejazi NS.",
     "crumbs": [
       "Papers"
     ]

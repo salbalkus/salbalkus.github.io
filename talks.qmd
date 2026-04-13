@@ -2,17 +2,14 @@
 title: "Talks"
 description: |
   Here, I highlight some of my notable academic talks and poster presentations not published in any conference proceedings.
----
-
-## Statistical Computing
-
-**Speeding up the Highly Adaptive Lasso**<!--[**Speeding up the Highly Adaptive Lasso**](/files/talks/Speeding-Up-HAL.html)-->  
-Harvard Biostatistics Student Seminar, March 2025
-
-[**Statistics in Julia: Is It Right For You?**](/files/talks/statistics-in-julia.html)  
-Harvard Biostatistics Student Seminar, December 2024  
+--- 
 
 ## Causal Inference
+
+[**A Riesz Representer Perspective on
+Targeted Learning**](/files/talks/eurocim-balkus-2026.html)  
+European Causal Inference Meeting, April 2026
+
 
 [**The Causal Effects of Modified Treatment Policies
 Under Network Interference**](/files/talks/The-causal-effects-of-modified-treatment-policies-under-network-interference.pdf)  
@@ -23,6 +20,14 @@ American Causal Inference Conference, May 2024
 
 [**Assumption-Lean Causal Inference for Mobile Source Air Pollution**](/files/talks/Balkus - NE-SRS-SDS-v2.pdf)  
 ASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024
+
+## Statistical Computing
+
+**Speeding up the Highly Adaptive Lasso**<!--[**Speeding up the Highly Adaptive Lasso**](/files/talks/Speeding-Up-HAL.html)-->  
+Harvard Biostatistics Student Seminar, March 2025
+
+[**Statistics in Julia: Is It Right For You?**](/files/talks/statistics-in-julia.html)  
+Harvard Biostatistics Student Seminar, December 2024 
 
 ## Large Language Models
 
