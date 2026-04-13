@@ -7,6 +7,9 @@ description: |
 
 ## In preparation and preprints
 
+[**A Riesz representer perspective on targeted learning**](files/balkus2026-eurocim.pdf)  
+**Balkus SV**, Testa C, Hejazi NS.
+
 [**Linear models for causal inference under network interference**](https://arxiv.org/abs/2603.29168)  
 arXiv:2603.29168  
 Tong E, **Balkus SV**.  
