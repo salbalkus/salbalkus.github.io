@@ -7,7 +7,8 @@ description: |
 
 ## In preparation and preprints
 
-[**A Riesz representer perspective on targeted learning**](files/balkus2026-eurocim.pdf)  
+[**A Riesz representer perspective on targeted learning**](https://arxiv.org/abs/2604.21721)  
+arXiv:2604.21721  
 **Balkus SV**, Testa C, Hejazi NS.
 
 [**Linear models for causal inference under network interference**](https://arxiv.org/abs/2603.29168)  
@@ -21,7 +22,7 @@ arXiv:2601.10899
 ## Research articles
 
 [**The causal effects of modified treatment policies under network interference**](https://academic.oup.com/jrsssb/advance-article-abstract/doi/10.1093/jrsssb/qkag052/8512123)  
-Journal of the Royal Statistical Society Series B: Statistical Methodology  
+Journal of the Royal Statistical Society Series B: Statistical Methodology (2026).  
 **Balkus SV**, Delaney SW, Hejazi NS.  
 
 [**CausalTables.jl: Simulating and storing data for statistical causal inference in Julia**](https://joss.theoj.org/papers/68c43e832d063050a4e67528191e8148)  
