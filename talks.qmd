@@ -6,8 +6,11 @@ description: |
 
 ## Causal Inference
 
+[**Cross-fitting in Causal Machine Learning with Correlated Units**](/files/talks/jsm-balkus-2026.pdf)  
+Joint Statistical Meetings, August 2026
+
 [**Induced Modified Treatment Policies for Estimating Effects of Continuous Exposures under Interference**](/files/talks/TGIF_talk.pdf)  
-Thank Goodness for Influence Functions Reading Group, May 2026
+University of Washington, May 2026
 
 [**A Riesz Representer Perspective on
 Targeted Learning**](/files/talks/eurocim-balkus-2026.html)  
