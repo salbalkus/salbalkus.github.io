@@ -5,7 +5,7 @@ description: |
   For a complete listing, please refer to my [Google       Scholar](https://scholar.google.com/citations?user=wzuq_fcAAAAJ&hl=en&oi=ao).
 ---
 
-## In preparation and preprints
+## Preprints
 
 [**A Riesz representer perspective on targeted learning**](https://arxiv.org/abs/2604.21721)  
 arXiv:2604.21721  
